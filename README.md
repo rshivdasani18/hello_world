@@ -28,3 +28,5 @@ Answer: Do we really want to know?
 Hi. This is Kevin. 
 
 With great power ... comes great responsibility - Github 100AD
+
+"Sometimes I'll start a sentence and I don't even know where it's going. I just hope I find it along the way" - Michael Scott
