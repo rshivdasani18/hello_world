@@ -15,6 +15,10 @@ My name is Faisal it ryhmes with basil
 
 'The world is giving you answers each day. Learn to listen'
 
+I like turtles
+
+"Yesterday is history, tomorrow is a mystery, and today is a gift. That is why they call it the present." -Master Oogway
+
 In the meantime, here's a cute puppy to brighten your day!
 ![alt text](http://www.zarias.com/wp-content/uploads/2015/12/61-cute-puppies.jpg)
 
