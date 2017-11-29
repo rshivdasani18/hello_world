@@ -27,4 +27,4 @@ Answer: Do we really want to know?
 
 Hi. This is Kevin. 
 
-Git is Lit
+With great power ... comes great responsibility - Github 100AD
