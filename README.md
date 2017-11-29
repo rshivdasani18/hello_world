@@ -33,6 +33,8 @@ Hi. This is Kevin.
 
 With great power ... comes great responsibility - Github 100AD
 
+"My worst enemy... Stairs." - Kungfu Panda 3
+
 Question: How much wood would a woodchuck chuck if a woodchuck could chuck wood?
 Answer: Assuming a spherical woodchuck in a vacuum, 42 cubic meters.
 
