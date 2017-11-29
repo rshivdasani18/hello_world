@@ -1,7 +1,7 @@
 
 # This ReadMe file tells the reader about the adventures of young man Husain Altaraif
 
-Husain spent his Thanksgiving break reading about computer science and eating cheese. 
+Husain spent his Thanksgiving break reading about computer science and eating cheese. He also ate pie.
 
 # A most WONDERFUL Read Me file containing all the answers
 
@@ -11,7 +11,7 @@ Here you may some day find the answers to most of the questions in the universe!
 
 Here you may some day find the answers to all the questions in the universe! 
 
-My name is Faisal it ryhmes with basil 
+My name is Faisal it ryhmes with basil.
 
 'The world is giving you answers each day. Learn to listen'
 
@@ -28,3 +28,7 @@ Answer: Do we really want to know?
 Hi. This is Kevin. 
 
 With great power ... comes great responsibility - Github 100AD
+
+What did one cannibal say to the other while they were eating a clown?
+"Does this taste funny to you?"
+
