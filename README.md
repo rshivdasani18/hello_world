@@ -26,3 +26,5 @@ Answer: Do we really want to know?
 (Hint: It's 42.)
 
 Hi. This is Kevin. 
+
+With great power ... comes great responsibility - Github 100AD
