@@ -27,6 +27,7 @@ Answer: Do we really want to know?
 ![alt text](http://media3.giphy.com/media/sIIhZliB2McAo/giphy.gif)
 
 (Hint: It's 42.)
+Well if you had watched the interview maybe you'd think it was 21
 
 Hi. This is Kevin. 
 
