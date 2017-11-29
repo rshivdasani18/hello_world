@@ -33,6 +33,8 @@ Hi. This is Kevin.
 
 With great power ... comes great responsibility - Github 100AD
 
+The first half of my name comes from Connecticut. The second half comes from the English translation of the Chinese word for girl.
+
 "Sometimes I'll start a sentence and I don't even know where it's going. I just hope I find it along the way" - Michael Scott
 
 "My worst enemy... Stairs." - Kungfu Panda 3
