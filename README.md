@@ -28,3 +28,5 @@ Answer: Do we really want to know?
 Hi. This is Kevin. 
 
 With great power ... comes great responsibility - Github 100AD
+
+The first half of my name comes from Connecticut. The second half comes from the English translation of the Chinese word for girl.
