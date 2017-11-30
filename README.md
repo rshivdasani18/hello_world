@@ -1,5 +1,5 @@
 
-# This ReadMe file tells the reader about the adventures of young man Husaaaiiin Altaraif
+# This ReadMe file tells the reader about the adventures of young man Husaaaiiin *Name removed 'cuz the Internet is a Scary Place*
 
 Husain spent his Thanksgiving break reading about computer science and eating cheese. He also ate pie.
 
