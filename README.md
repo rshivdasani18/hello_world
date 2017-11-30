@@ -1,7 +1,4 @@
 
-Rohin thinks GitHub is very user friendly. 
-
-Proud to officially commit to Repository Univeristy and continue my computer science career with this program!
 
 # This ReadMe file tells the reader about the adventures of young man Husaaaiiin *Name removed 'cuz the Internet is a Scary Place*
 
